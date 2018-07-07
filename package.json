@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "clientdev": "next",//客户端方式运行
-    "dev": "node server.js"//服务端方式运行
+    "clientdev": "next",
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
